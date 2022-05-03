@@ -1,0 +1,27 @@
+.bg-padrao {
+    background-color: rgb(1, 15, 87);
+}
+
+#menu {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+#menuBtn {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+html,
+body {
+    height: 100vh;
+}
